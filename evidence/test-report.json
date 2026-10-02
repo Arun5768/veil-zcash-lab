@@ -1,0 +1,594 @@
+{
+  "project": "Veil",
+  "version": "0.1.0",
+  "generatedAt": "2026-10-02T21:42:24.812Z",
+  "fixtureSource": "https://github.com/zcash/zcash-test-vectors",
+  "fixtureCommit": "78321beacb0e0477e33cd002b56585a107c2708c",
+  "total": 116,
+  "passed": 116,
+  "failed": 0,
+  "durationMs": 92,
+  "scope": "Local encoding and ZEC payment-request tests. No chain, ownership, curve validity, wallet interoperability or settlement verification.",
+  "results": [
+    {
+      "name": "Unified Address reference #1",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #2",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #3",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #4",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #5",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #6",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #7",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #8",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #9",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #10",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #11",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #12",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #13",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #14",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #15",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #16",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #17",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #18",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #19",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #20",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #21",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #22",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #23",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #24",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #25",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #26",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #27",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #28",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #29",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #30",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #31",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #32",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #33",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #34",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #35",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #36",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #37",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #38",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #39",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #40",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #41",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #42",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #43",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #44",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #45",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #46",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #47",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #48",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #49",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #50",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #51",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #52",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #53",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #54",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #55",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #56",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #57",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #58",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #59",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "Unified Address reference #60",
+      "group": "Official ZIP-316 fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble forward #1",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble inverse #1",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble forward #2",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble inverse #2",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble forward #3",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble inverse #3",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble forward #4",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble inverse #4",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble forward #5",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble inverse #5",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble forward #6",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "F4Jumble inverse #6",
+      "group": "Official F4Jumble fixture",
+      "passed": true
+    },
+    {
+      "name": "ZIP-321 published single-recipient example",
+      "group": "Specification example",
+      "passed": true
+    },
+    {
+      "name": "ZIP-321 published multi-recipient example",
+      "group": "Specification example",
+      "passed": true
+    },
+    {
+      "name": "Exact zatoshi arithmetic",
+      "group": "Boundary",
+      "passed": true
+    },
+    {
+      "name": "Maximum ZEC amount",
+      "group": "Boundary",
+      "passed": true
+    },
+    {
+      "name": "Percent-decoded label keeps plus literal",
+      "group": "Boundary",
+      "passed": true
+    },
+    {
+      "name": "Unknown optional parameter warns",
+      "group": "Boundary",
+      "passed": true
+    },
+    {
+      "name": "Unspecified amount stays unspecified",
+      "group": "Boundary",
+      "passed": true
+    },
+    {
+      "name": "512-byte memo accepted",
+      "group": "Boundary",
+      "passed": true
+    },
+    {
+      "name": "UTF-8 composition roundtrip",
+      "group": "Composition",
+      "passed": true
+    },
+    {
+      "name": "Multi-recipient composition roundtrip",
+      "group": "Composition",
+      "passed": true
+    },
+    {
+      "name": "Orchard preferred when supported",
+      "group": "Receiver policy",
+      "passed": true
+    },
+    {
+      "name": "Sapling selected when Orchard unsupported",
+      "group": "Receiver policy",
+      "passed": true
+    },
+    {
+      "name": "Strict policy blocks transparent fallback",
+      "group": "Receiver policy",
+      "passed": true
+    },
+    {
+      "name": "Explicit opt-in permits transparent fallback",
+      "group": "Receiver policy",
+      "passed": true
+    },
+    {
+      "name": "Checksum mutation",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Mixed-case Unified Address",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Network mismatch",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Unsupported revision 2",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Viewing key rejected",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Empty request",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "URL-style slashes rejected",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Fragment rejected",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Negative amount",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Exponent amount",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Excess precision",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Supply bound",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Duplicate amount",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Duplicate path/query address",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Recipient index .0",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Recipient index leading zero",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Recipient without address",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Mixed network recipients",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Unknown required parameter",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Custom asset not silently ignored",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Memo forbidden for transparent",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Padded memo forbidden",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Non-canonical memo bits",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "513-byte memo rejected",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Raw spaces rejected",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Broken percent encoding",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Invalid UTF-8 rejected",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Percent-encoded amount forbidden",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Trailing empty parameter",
+      "group": "Negative case",
+      "passed": true
+    },
+    {
+      "name": "Resource limit enforced",
+      "group": "Negative case",
+      "passed": true
+    }
+  ]
+}

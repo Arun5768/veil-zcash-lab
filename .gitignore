@@ -1,0 +1,9 @@
+node_modules/
+.sites-runtime/
+evidence/screenshots/
+evidence/QA.md
+.wrangler/
+.env
+.env.*
+.dev.vars
+*.log
