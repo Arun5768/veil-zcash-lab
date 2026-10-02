@@ -4,6 +4,8 @@ A local-first, five-page Zcash payment-request diagnostics prototype by Arun Pra
 
 Public source: [Arun5768/veil-zcash-lab](https://github.com/Arun5768/veil-zcash-lab).
 
+Web demo: [Veil on GitHub Pages](https://arun5768.github.io/veil-zcash-lab/).
+
 ## What it does
 
 - Inspects a public transparent, Sapling or revision-0 Unified Address.
@@ -43,7 +45,11 @@ Version 0.1 intentionally does not support revision-2 Unified Addresses, custom 
 
 All request inputs remain in memory. No browser storage, remote address submission or telemetry. Clear resets the inspector; reload resets all state. Explicit downloads/clipboard actions may contain addresses and memo text. Public reference addresses must never be funded. Do not paste seed phrases or keys.
 
-The local server applies a restrictive Content Security Policy, no-referrer and nosniff headers. The same headers are provided in `dist/_headers` for a compatible future static host. Public hosting requires separate review and approval.
+The local server applies a restrictive Content Security Policy, no-referrer and nosniff headers. `dist/_headers` carries policies for hosts that support that format. GitHub Pages does not apply this file; the HTML therefore also includes a restrictive CSP and no-referrer policy. Header-only protections such as `frame-ancestors` and Permissions-Policy are not provided by that meta tag. The app does not use camera, microphone or location APIs.
+
+The app does not transmit entered requests. GitHub receives the ordinary static-page/asset requests and may log visitor IP addresses for security, as described in [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection).
+
+Deployment uses the root of the `gh-pages` branch, which contains only the built `dist/` files. Three additional hosting checks validate project-path assets, HTML policies and the no-Jekyll marker. Updates are published deliberately, not on every source change. Public deployment and grant submission remain separate approvals.
 
 ## Suggested 5-minute demonstration
 
